@@ -7,3 +7,6 @@ something new
 This file is just a readme file 
 ##Purpose modificat din terminal
 
+## Getting started section 
+
+jhcbei
